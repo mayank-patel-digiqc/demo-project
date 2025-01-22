@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <iframe
         title="login"
-        src="http://localhost:3000"
+        src="https://web.feature2.digiqc.com/"
         width={1500}
         height={800}
       />
