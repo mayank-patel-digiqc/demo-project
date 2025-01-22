@@ -7,7 +7,6 @@ const App = () => {
       <iframe
         title="login"
         src="https://web.feature2.digiqc.com/"
-        referrerPolicy="origin"
         width={1500}
         height={800}
       />
