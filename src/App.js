@@ -6,7 +6,7 @@ const App = () => {
       <iframe
         id="iframe"
         title="login"
-        src="https://v2-dev.digiqc.com/"
+        src="https://web.feature.digiqc.com/login"
         width={1500}
         height={800}
       />
